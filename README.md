@@ -2,63 +2,94 @@
 
 ## 💻 Flutter & Python Developer | Trading Systems Engineer
 
-I build mobile applications and advanced automation systems using Flutter, Python, and MetaTrader 5 (MT5).
+Building real-world mobile apps and automated trading systems using Flutter, Python, and MetaTrader 5 (MT5).
+
+---
+
+## 📊 GitHub Overview
+
+- 💼 Freelancer Developer
+- 📱 Mobile App Development (Flutter)
+- 🤖 Trading Automation Systems (Python + MT5)
+- ⚙️ Backend Logic & APIs
 
 ---
 
 ## 🚀 Skills
 
-• Flutter App Development  
-• Dart Programming  
-• Python (Automation & Backend Logic)  
-• MetaTrader 5 (MT5 Integration)  
-• API Development  
-• Firebase  
-• Git & GitHub  
+Mobile Development
+- Flutter
+- Dart
+- Firebase
+
+Backend & Automation
+- Python
+- API Development
+- JSON Processing
+- Automation Scripts
+
+Data & Productivity Tools
+- Data Analysis (Excel & Python)
+- Advanced Excel Automation
+- Spreadsheet Modeling & Formulas
+- Data Cleaning and Reporting
+
+Trading Systems
+- MetaTrader 5 (MT5)
+- Algorithmic Trading
+- Trade Tracking Systems
+- Strategy Development
 
 ---
 
 ## 🐍 Python Expertise
 
-• Trading Bots Development  
-• Market Data Analysis  
-• Automation Scripts  
-• MT5 Python Integration  
-• JSON & File Processing  
-• Algorithmic Trading Logic  
+- Trading Bots Development
+- Market Data Analysis
+- MT5 Integration with Python
+- Automation Systems
+- Logic Building for Strategies
 
 ---
 
-## 📱 Projects
+## 📱 Featured Projects
 
-### 🏫 Nursery App System  
-Mobile application for nurseries with communication, notifications, and management features.
+### 🏫 Nursery Management System
+A complete mobile application for nurseries with:
+- Parent communication system
+- Notifications
+- Activity management
+- Content updates
 
-### 📊 FX Trading System (Python + MT5)  
-Automated trading system built with Python that connects to MetaTrader 5 for:  
-• Trade execution automation  
-• Signal processing  
-• Trade tracking and logging  
-• Custom strategy logic  
+---
+
+### 📊 FX Trading System (Python + MT5)
+An automated trading system that:
+- Connects Python with MetaTrader 5
+- Executes trades automatically
+- Tracks and logs all trades
+- Uses custom trading logic and strategies
 
 ---
 
 ## ⚙️ What I Do
 
-• Build cross-platform mobile apps using Flutter  
-• Create Python automation systems for trading  
-• Connect MT5 with custom algorithms  
-• Design scalable and real-world software solutions  
+- Build production-ready mobile applications
+- Create automation systems for trading
+- Work with data analysis using Python and Excel
+- Build advanced Excel-based automation solutions
+- Connect financial platforms with Python
+- Design scalable software architectures
 
 ---
 
-## 🎯 About Me
+## 🎯 Goals
 
-Focused on building real systems that solve real problems in mobile development and algorithmic trading.
+To build intelligent systems that combine mobile technology, data analysis, and algorithmic trading to solve real business problems.
 
 ---
 
 ## 📫 Contact
 
-• WhatsApp: +971557088964  
-• Email: Mohamadsabry2040@gmail.com
+- 📞 WhatsApp: +971557088964  
+- 📧 Email: Mohamadsabry2040@gmail.com
